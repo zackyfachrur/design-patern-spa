@@ -1,6 +1,6 @@
 import InputComponents from "./InputComponent";
 
-export default function RegisterPages() {
+export default function LoginPages() {
   return (
     <>
       <section className="flex justify-center gap-52 flex-row items-center w-full container h-screen">
