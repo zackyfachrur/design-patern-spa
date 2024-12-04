@@ -1,5 +1,5 @@
 {
-  "name": "harisenin-m3",
+  "name": "m1-intermediate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,7 @@
     "tailwind": "npx tailwindcss -i ./src/App.css -o ./src/index.css --watch"
   },
   "dependencies": {
-    "harisenin-m3": "file:",
+    "m1-intermediate": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-responsive": "^10.0.0",

@@ -12,7 +12,7 @@ ServiceCardComponent.propTypes = {
 
 function ServiceCardComponent({ className, contentTitle, contentDesc, img }) {
   return (
-    <div className={`flex gap-12 max-[800px]:gap-0` + " " + className}>
+    <div className={`flex gap-12 max-[800px]:gap-0 w-50%` + " " + className}>
       <div className="flex flex-col">
         <h2 className="pb-2 text-2xl font-extrabold max-[800px]:text-base">
           {contentTitle}
