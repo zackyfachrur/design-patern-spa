@@ -8,7 +8,7 @@ export default function LoginPages() {
           <h2 className="text-6xl font-extrabold max-[800px]:text-4xl max-[600px]:text-2xl">
             Login into your account
           </h2>
-          <form className="overflow-hidden bg-white border-4 border-blue-400 shadow-2xl dark:bg-zinc-900 rounded-2xl dark:border-blue-800 h-[78%] w-[600px]  max-[800px]:h-[100%] max-[800px]:w-[100%]  max-[800px]:mb-32">
+          <form className="overflow-hidden bg-white border-4 border-blue-400 shadow-2xl dark:bg-zinc-900 rounded-2xl dark:border-blue-800 h-[55%] w-[600px]  max-[800px]:h-[100%] max-[800px]:w-[100%]  max-[800px]:mb-32">
             <div className="px-8 py-10 md:px-10">
               <h2 className="text-4xl font-extrabold text-center text-zinc-800 dark:text-white">
                 Welcome Back!
